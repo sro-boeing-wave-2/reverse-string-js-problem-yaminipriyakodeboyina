@@ -1,6 +1,9 @@
 # Reverse String Problem
 
-**Objective:** The Objective is to reverse the string using JS
+**Objective:** The intent of this problem is to reverse the string using JS and focussing on the following topics.
+
+1. Iterating over String (for, forEach)
+2. Using built in functions of arrays (split, reverse, join)
 
 ## Assignment
 
@@ -12,6 +15,9 @@ There are two parts to this assignment.
 ## Instructions to Run and Execute your code
 
 ```
+# Add the remote to the starter repo
+git remote add starter https://github.com/nishant-jain-94/reverse-string-js-problem
+
 # To be executed at the root of the assignment folder or the place where you see package.json
 npm install
 
