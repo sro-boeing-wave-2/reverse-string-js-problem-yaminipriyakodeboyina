@@ -7,7 +7,7 @@
 There are two parts to this assignment.
 
 1. Write the string reversal function using the built in functions in the file `reverse-using-built-in-function.js`
-2. Write the string reversal function using iteratos in the file `reverse-using-iterators.js`.
+2. Write the string reversal function using iterators in the file `reverse-using-iterators.js`.
 
 ## Instructions to Run and Execute your code
 
