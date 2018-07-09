@@ -30,4 +30,4 @@ npm run lint
 
 ## Issues
 
-Incase of an issue with the repository create an issue on https://github.com/nishant-jain-94/reverse-string-js-problem/issues
+Incase of an issue with the repository raise an issue on https://github.com/nishant-jain-94/reverse-string-js-problem/issues
