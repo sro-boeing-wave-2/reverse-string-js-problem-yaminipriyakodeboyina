@@ -16,7 +16,7 @@ There are two parts to this assignment.
 
 ```
 # Add the remote to the starter repo
-git remote add starter https://github.com/nishant-jain-94/reverse-string-js-problem
+git remote add starter https://github.com/sro-boeing-wave-2/reverse-string-js-problem
 
 # To be executed at the root of the assignment folder or the place where you see package.json
 npm install
