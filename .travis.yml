@@ -1,6 +1,6 @@
 sudo: required
 notifications:
-  slack: srboeingdotnet:bCIlAhOhjVU3ZlUNuaJBreYE
+  slack: srboeingdotnet:ne7IgGiOz5eVARMY1IwEXGZg
 language: node_js
 node_js:
   - node
