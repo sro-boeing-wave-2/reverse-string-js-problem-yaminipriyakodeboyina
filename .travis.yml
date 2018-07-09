@@ -4,7 +4,7 @@ notifications:
     on_success: always
     on_failure: always
   slack:
-    secure: Xh9MkoCMALiMXGJXaWCulHZr8BovFebSnFPLjtcVhvcJOyhUWllCIqIhCYwGH4u6HBkjpcsHAWdAaAU9S9iLj0D4IAWgVUhPUVq5/o6YAMQeafRDRWZ1MQgswmbywT4rCIk5W278+SCtSUnOr/6A6G09uYO3Kb31lca6PAIwx5/1s9EiwHD4qSizRBZEDeLTP0EUUCuNYn63WL3wch2qTiEl4Yu6W47HutLMGEQtf6+Wt4adkDry6kVG8/r/sNN1+MDgaGnLgqRiPEF2Rss/S1Ug4E6gK+riP+2KNaf7LcnrdEZZS/FnLLtCIVpR8EtKKjQt6zoB2G4yP4+xra28Hczm+lIiYCJ2SBsxe1WGeS+YDuaEZMdx4wZUs/Xj1zq3nl1sVmY6YI89q1euL8Glo/HYi2G7sl0QXFNmub8l8IxJsZ4zCto+q9qdYUg1rHIm88qOp1bp7UNxPAQOWnl6/BYJAXPi+jGmCxsiEaDwO4zMw32af00niNR5kYxghAPYjdPupS/yyD799RHVskhz0R/ZvdkdXrqQ2niVK1NPNjaa+9fnm5qc5cItzqkXIt+Kpkv1YpFTDWa11RjCKgbjr2eW5HPpawpcty0ClKtUrxIlSHBtbjDqfrIPjkh//9zeMIPtLTBGf3CWg+vCb1PvpFQ1qSfegBJ1l+nQEe7m8Qs=
+    slack: srboeingdotnet:t39kVEYScX7icPbJaaBlkSge
 language: node_js
 node_js:
 - node
