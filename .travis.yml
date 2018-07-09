@@ -3,8 +3,7 @@ notifications:
   email:
     on_success: always
     on_failure: always
-  slack:
-    slack: srboeingdotnet:t39kVEYScX7icPbJaaBlkSge
+  slack: srboeingdotnet:pZz5KfrgntyjLpS9a1d2b1rH
 language: node_js
 node_js:
 - node
